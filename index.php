@@ -522,7 +522,6 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-<audio controls autoplay>
-  <source src="ali.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+<audio controls <audio autoplay loop>
+      <source src="http://smp3dl.com/fileDownload/Songs/128/26748.mp3">
 </audio>
